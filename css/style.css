@@ -723,6 +723,15 @@ nav ul.active {
     display: block;
     width: 100%;
   }
+  .testimonail-box p {
+    font-style: italic;
+    margin: 0;
+    padding: 0px;
+    background: #f3f9fd;
+    margin-bottom: 35px;
+    border-radius: 6px;
+    position: relative;
+  }
 }
 
 .service-sec {
